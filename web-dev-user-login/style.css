@@ -1,0 +1,42 @@
+html {
+    background-image: url("/web-dev-user-login-master/images/background.jpg");
+    background-size: cover;
+} 
+body{
+    background-color: rgba(255, 255, 255, 0.8);
+    width: 600px;
+    margin: auto;
+    font-family: 'Montserrat', sans-serif;
+    border: 2px solid purple;
+    border-radius: 10px
+
+}
+
+ .forgot-password {
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     font-style: italic;
+ }
+ button {
+     font-size: 20px;
+     background-color: green;
+     color: white
+ }  
+
+.company-logos{
+    padding: 5px  
+}
+
+ .company-logos img {
+     width:50px;
+     margin-left: 10px;
+     padding: 5px
+ }
+ .login-section{
+     background-color: purple;
+     color: white;
+     text-align: center;
+     padding: 15px
+ }
+hr {
+    width: 250px
+}
